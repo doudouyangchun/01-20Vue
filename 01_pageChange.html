@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>pageChange</title>
+    <link rel="stylesheet" href="./router/semantic/semantic.min.css">
+    <link rel="stylesheet" href="./01_demo.css">
+   
+</head>
+<body> 
+    <div id="app">  
+        <div class="ui container"> 
+            <div class="ui" id="ui">  
+               <router-link  to="./"><div><span class="lie1">首页</span></div></router-link> 
+               <router-link  to="./new" ><span class="lie2">新闻</span></router-link>
+               <router-link  to="./video"><span class="lie2">视频</span></router-link>
+            </div>
+            <div class=""> 
+               <router-view></router-view>
+            </div>
+        </div>
+    </div> 
+<script src="router/js/vue.js"></script>
+<script src="router/js/vue-router.js"></script>
+<script src="./01_demo.js"></script>
+</body>
+</html>

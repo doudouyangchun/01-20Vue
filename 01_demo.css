@@ -1,0 +1,64 @@
+
+        .d1{
+            width: 350px;
+            height: 300px;
+            background-color: #5E9CD3;
+            float: left;
+        } 
+        .d2{
+            width: 350px;
+            height: 300px;
+            background-color: #5E9CD3;
+            float: right;
+        }
+        .lie1{
+            width: 200px;
+            height: 40px;
+            background-color: #94CE58;
+            border: 1px solid #eee;
+            float: left;
+            color: white;
+        }
+        .lie2{
+            width: 200px;
+            height: 40px;
+            background-color: #5E9CD3;
+            border: 1px solid #eee;
+            float: left;
+            margin-left: 100px;
+            color: white;
+        }
+        #ui{
+            width: 800px;
+            height:70px;
+            margin-top: 30px;
+        }
+        #shou{
+            width: 800px;
+            height: 300px;
+            border-color: blue;
+        }
+        .dd1 {
+            width: 800px;
+            height: 60px;
+            background-color: #5E9CD3;
+        }
+        .dd1 ul li{
+            list-style: none;
+            margin-left: 320px;
+            color: white;
+            padding-top: 15px;
+        }
+        .ddd1{
+            width: 800px;
+            height: 100px;
+            background-color:#5E9CD3;
+            color: white;
+        }
+        .ddd2{
+            width: 800px;
+            height: 300px;
+            background-color: #5E9CD3;
+            margin-top: 10px;
+            color: white;
+        }
