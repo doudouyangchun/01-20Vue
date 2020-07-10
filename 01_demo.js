@@ -6,7 +6,7 @@ var Home={
                 <div class="d2"><h2>视频列表</h2></div>
               </div>
             `
-} 
+}
 var New={
     template:`
              <div>
