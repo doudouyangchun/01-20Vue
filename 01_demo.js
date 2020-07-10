@@ -12,6 +12,7 @@ var New={
              <div>
              <div class="dd1"><ul><li><h2>新闻条目1</h2></li></ul></div>
             <div class="dd1"><ul><li><h2>新闻条目2</h2></li></ul></div>
+            <div class="dd1"><ul><li><h2>新闻条目3</h2></li></ul></div>
                </div>  
             `
 }
